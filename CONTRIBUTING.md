@@ -6,6 +6,8 @@ from setting up the toolchain to what a good PR looks like.
 > **New here?** The single best document to read first is
 > [structure.md](structure.md) — the full design doc: mental model, data model,
 > every decision and why it was made.
+> For a compact, code-first architecture and extension path, read
+> [docs/CODEBASE_EXTENSION_GUIDE.md](docs/CODEBASE_EXTENSION_GUIDE.md).
 
 ---
 
